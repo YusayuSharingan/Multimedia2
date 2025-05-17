@@ -1,7 +1,3 @@
-# Model Performance Summary
-
-This README collates the key evaluation metrics produced in laboratory assignments **Lab 6–8** for three core computer‑vision tasks: **image classification, semantic segmentation, and object detection**. For each model we report baseline results ("before") and scores after architectural or hyper‑parameter enhancements ("after").
-
 ## 1. Image Classification
 
 | Model              | Accuracy    | F1‑score    |
